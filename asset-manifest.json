@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.e904748f.chunk.js",
-    "main.js.map": "/static/js/main.e904748f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e36e960b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e36e960b.js.map",
-    "static/js/2.bb96b0ad.chunk.js": "/static/js/2.bb96b0ad.chunk.js",
-    "static/js/2.bb96b0ad.chunk.js.map": "/static/js/2.bb96b0ad.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.bb96b0ad.chunk.js.LICENSE.txt": "/static/js/2.bb96b0ad.chunk.js.LICENSE.txt"
+    "main.js": "/test-gantt-chart/static/js/main.e904748f.chunk.js",
+    "main.js.map": "/test-gantt-chart/static/js/main.e904748f.chunk.js.map",
+    "runtime-main.js": "/test-gantt-chart/static/js/runtime-main.a10a7c51.js",
+    "runtime-main.js.map": "/test-gantt-chart/static/js/runtime-main.a10a7c51.js.map",
+    "static/js/2.bb96b0ad.chunk.js": "/test-gantt-chart/static/js/2.bb96b0ad.chunk.js",
+    "static/js/2.bb96b0ad.chunk.js.map": "/test-gantt-chart/static/js/2.bb96b0ad.chunk.js.map",
+    "index.html": "/test-gantt-chart/index.html",
+    "static/js/2.bb96b0ad.chunk.js.LICENSE.txt": "/test-gantt-chart/static/js/2.bb96b0ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e36e960b.js",
+    "static/js/runtime-main.a10a7c51.js",
     "static/js/2.bb96b0ad.chunk.js",
     "static/js/main.e904748f.chunk.js"
   ]
